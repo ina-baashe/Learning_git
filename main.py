@@ -1,1 +1,2 @@
-Func()
+def Zaki():
+  print('hello world')
